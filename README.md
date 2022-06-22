@@ -1,1 +1,1 @@
-Simple Music Player in C# using Visual Studio 2019 for a basic graphic interface.
+Simple Music Player in C# using Forms for a basic graphic interface.
